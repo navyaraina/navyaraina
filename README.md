@@ -2,10 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpibG45OWp1azYwZ241NGNseW9peHNybHEycm9tbXZhbjh2ZnBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
 
-<h1 id="information" style="align: center"> Hi there, I'm Navya Raina!
-<div style="width:100%;height:0;padding-bottom:97%;position:relative;">
-    <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-</h1>
+<h1 id="information" style="align: center"> Hi there, I'm Navya Raina</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/navya-raina/">
