@@ -1,8 +1,10 @@
-<div id="header" style="align: center">
+<div id="header" align= "center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpibG45OWp1azYwZ241NGNseW9peHNybHEycm9tbXZhbjh2ZnBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
 
-<h1 id="information" style="align: center"> Hi there, I'm Navya Raina</h1>
+<h1 id="information" align="center"> Hi there, I'm Navya Raina
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"/>
+</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/navya-raina/">
@@ -20,8 +22,10 @@
 - 📫 How to reach me navyaraina04@gmail.com
 
 ## My Stats
+<p id="stats" align="center">
 ![navyaraina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![navyaraina's Stats](https://github-readme-stats.vercel.app/api?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![navyaraina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyaraina&theme=vue-dark&hide_border=true)
+</p>
