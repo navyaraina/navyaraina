@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"/>
 </h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/navya-raina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,6 +16,7 @@
   <a href="https://github.com/navyaraina">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
 
 - 🔭 I’m currently working on Game Development and App Development.
 - 🌱 I’m currently learning **Three.js and Django**
