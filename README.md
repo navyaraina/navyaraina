@@ -1,5 +1,5 @@
 <div id="header" align= "center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpibG45OWp1azYwZ241NGNseW9peHNybHEycm9tbXZhbjh2ZnBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=790b76113xx0k7pe5d5u13fn5brgessemmh2g6akdmxlqu3z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 <h1 id="information" align="center"> Hi there, I'm Navya Raina
@@ -21,6 +21,8 @@
 - 🔭 I’m currently working on Game Development and App Development.
 - 🌱 I’m currently learning **Three.js and Django**
 - 📫 How to reach me navyaraina04@gmail.com
+
+![navyaraina's Profile Views](https://komarev.com/ghpvc/?username=navyaraina&label=PROFILE+VIEWS&style=plastic)
 
 ## My Stats
 ![navyaraina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
