@@ -25,8 +25,10 @@
 ![navyaraina's Profile Views](https://komarev.com/ghpvc/?username=navyaraina&label=PROFILE+VIEWS&style=plastic)
 
 ## My Stats
-![navyaraina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![navyaraina's Stats](https://github-readme-stats.vercel.app/api?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div>
+  ![navyaraina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![navyaraina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyaraina&theme=vue-dark&hide_border=true)
+  ![navyaraina's Stats](https://github-readme-stats.vercel.app/api?username=navyaraina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
+
